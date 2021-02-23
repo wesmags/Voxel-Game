@@ -77,7 +77,7 @@ PrefabInstance:
     - target: {fileID: 1788490504691801185, guid: f882580a2cb309d4090de72aaa7de94a,
         type: 3}
       propertyPath: m_Name
-      value: GrassBlock
+      value: GrassBlock Variant
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f882580a2cb309d4090de72aaa7de94a, type: 3}
