@@ -10,9 +10,9 @@ public class WorldGen : MonoBehaviour
 
     void Start()
     {   
-        for ( float xPos = -24; xPos < 24; xPos += 0.25f) 
+        for ( float xPos = -6; xPos < 6; xPos += 0.1f) 
         {
-            for ( float zPos = -24; zPos < 24; zPos += 0.25f) 
+            for ( float zPos = 0; zPos < 6; zPos += 0.1f) 
             {
                 Instantiate(block00, new Vector3(xPos,0,zPos), block00.rotation);
             }
