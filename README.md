@@ -6,5 +6,3 @@ Created using the Unity Engine. Although work has begun on a seperate custom eng
 
 Trello Board: https://trello.com/b/SHnwvFuG/voxel-game-unity
 
-Website: https://wesmags222.wixsite.com/lesleyweb
-Currently not bothered to create and host own website so using free wix for now. 
